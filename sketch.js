@@ -57,12 +57,11 @@ function draw() {
     showCannonBalls(balls[i], i);
 
   //R) Profe llamamos la función para detectar la colisión  
-    collisionWithBoat(i);
+    
   }
 
   cannon.display();
-  //Matter.Body.setVelocity(boat.body, {x:-0.9, y:0}); 
-  //boat.display();
+ 
 }
 
 //A) Profe  Toma el valor ei índice de parámetro
