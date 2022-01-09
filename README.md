@@ -1,1 +1,2 @@
-# PRO-C26-V2-Deteccion-de-Colisiones
+# PRO-C26-referencia
+Código de referencia para c26
